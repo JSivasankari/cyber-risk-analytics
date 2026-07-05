@@ -1,9 +1,11 @@
-requests
+python-dateutil
+tzdata
+plotly==5.24.1
 pandas
+requests
 openpyxl
 matplotlib
 seaborn
-plotly
 streamlit
 scikit-learn
 nltk
