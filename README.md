@@ -67,7 +67,7 @@ data/                   Raw JSON, clean/tagged CSV, Excel output
 - **Scoring:** min-max normalise four metrics, then weight them;
   weights are in one file so they are easy to tune.
 - **Why modular:** small single-purpose files, easy to explain/test.
-- **Known limitations (be upfront):** the domain→industry map covers
+- **Known limitations:** the domain→industry map covers
   only ~36 keywords, so ~97% of breaches fall under "Other"; severity
   uses substring matching, not true NLP.
 
