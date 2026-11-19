@@ -23,7 +23,7 @@ python -m streamlit run app.py          # dashboard
 python -m notebooks.eda.run_all         # optional: EDA charts -> data/
 ```
 
-## Project map (every file is ≤ 40 lines)
+## Project map 
 ```
 app.py                  Streamlit entry: wires the dashboard together
 run_pipeline.py         Runs steps 1-3 in order
