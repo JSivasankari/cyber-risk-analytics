@@ -1,0 +1,9 @@
+Industry,BreachCount,TotalPwnedM,AvgPwnedM,MaxPwnedM,AvgSeverityScore,MaxSeverityScore,CredentialLeaks,AvgLagDays,MaxLagDays,CriticalBreaches,HighBreaches,YearFirstSeen,YearLastSeen,RiskScore,RiskScorePct,RiskLabel,CredLeakRate%
+Other,972,15274.73,15.71,1957.48,4.46,10.0,684,496.68,5201,90,306,2007,2026,0.697,69.7,High,70.4
+Finance,1,7.2,7.2,7.2,6.6,6.6,0,356.0,356,0,1,2015,2015,0.3796,38.0,Medium,0.0
+Education,1,39.72,39.72,39.72,5.6,5.6,1,475.0,475,0,1,2018,2018,0.3003,30.0,Medium,100.0
+Gaming,5,173.25,34.65,172.87,4.76,7.2,5,275.4,916,1,1,2011,2019,0.2056,20.6,Low,100.0
+Email/Telecom,6,269.97,45.0,268.76,4.27,7.2,5,644.67,2391,2,0,2011,2026,0.2001,20.0,Low,83.3
+Software/Tech,2,289.72,144.86,152.44,4.6,4.8,2,69.0,77,0,1,2013,2019,0.1707,17.1,Low,100.0
+Cloud Storage,1,68.65,68.65,68.65,2.8,2.8,1,1522.0,1522,0,0,2012,2012,0.151,15.1,Low,100.0
+Social Media,11,1473.56,133.96,509.46,3.4,5.2,4,677.55,2891,0,2,2008,2026,0.1447,14.5,Low,36.4
