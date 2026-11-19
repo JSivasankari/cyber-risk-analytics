@@ -61,7 +61,7 @@ notebooks/eda/          One file per EDA plot (matplotlib/seaborn)
 data/                   Raw JSON, clean/tagged CSV, Excel output
 ```
 
-## Interview talking points
+## Points
 - **Pipeline design:** 3 independent stages, each reads a file and writes
   a file, so any stage can be re-run or tested alone.
 - **Scoring:** min-max normalise four metrics, then weight them;
