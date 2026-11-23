@@ -1,7 +1,7 @@
 # 🔓 Cyber Risk Analytics Dashboard (Breach Tracker)
 
 End-to-end data project: pull real breach records from the
-HaveIBeenPwned (HIBP) API, score their severity, rank industries by
+HIBP API, score their severity, rank industries by
 risk, and explore everything in a Streamlit dashboard.
 
 ## What it does
